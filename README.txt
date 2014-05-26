@@ -6,6 +6,6 @@
 gem install rspec
 
 # To run specs (add these to your aliases)
-rspec specs
+rspec
 # OR
-rspec specs --format s --color
+rspec --format s --color
